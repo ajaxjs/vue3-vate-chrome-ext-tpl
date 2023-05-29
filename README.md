@@ -1,6 +1,6 @@
 # vue3-vite-chrome-ext-tpl
 
-A very useful Quasar-based Chrome extension development template
+A template based on Vue3+Vite+manifest_version3 that makes it more convenient for you to create Chrome extensions. Start using it now!
 
 ## Project Setup
 
